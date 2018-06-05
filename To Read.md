@@ -8,5 +8,6 @@ A list of good and relevant papers to read.
 
 ### GAN Papers
 
-[McGan: Mean and Covariance Feature Matching GAN](https://arxiv.org/pdf/1702.08398.pdf) \n
+[McGan: Mean and Covariance Feature Matching GAN](https://arxiv.org/pdf/1702.08398.pdf)
+
 [Fisher GAN](https://arxiv.org/pdf/1705.09675.pdf)
