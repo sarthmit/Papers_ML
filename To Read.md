@@ -34,7 +34,7 @@ SGD Learns Over-parameterized Networks That Provably Generalize On Linearly Sepa
 
 ### Batch-Normalization
 
-Batch Normalization: Accelerating Deep Network Training byReducing Internal Covariate Shift
+Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift
 
 How Does Batch Normalization Help Optimization?(No, It Is Not About Internal Covariate Shift)
 
@@ -42,6 +42,6 @@ How Does Batch Normalization Help Optimization?(No, It Is Not About Internal Cov
 
 The Generalized Reparameterization Gradient
 
-Reparameterization Gradients through Acceptance-RejectionSampling Algorithms
+Reparameterization Gradients through Acceptance-Rejection Sampling Algorithms
 
 Implicit Reparameterization Gradients
