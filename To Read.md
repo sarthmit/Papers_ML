@@ -5,8 +5,11 @@ A list of good and relevant papers to read.
 ### Theoretical Analysis of GANs
 
 Improved Techniques for Training GANs
+
 Towards Principled Methods for Training Generative Adversarial Networks
+
 The Numerics of GANs
+
 Which Training Methods for GANs do actually Converge?
 
 ### Convergence Speed of Over-parameterized models
@@ -16,6 +19,7 @@ On the Optimization of Deep Networks: Implicit Acceleration by Overparameterizat
 ### Generalization Study in Neural Networks
 
 Generalization in Deep Learning
+
 High-dimensional dynamics of generalization error in neural networks
 In Search Of The Real Inductive Bias: On The Role Of Implicit Regularization In Deep Learning
 Understanding Deep Learning Requires Rethinking Generalizaiton
