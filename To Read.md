@@ -45,3 +45,7 @@ The Generalized Reparameterization Gradient
 Reparameterization Gradients through Acceptance-Rejection Sampling Algorithms
 
 Implicit Reparameterization Gradients
+
+### SGD as Variational Inference
+
+Stochastic Gradient Descent Performs Variational Inference, Converges to Limit Cycles For Deep Networks
