@@ -49,3 +49,7 @@ Implicit Reparameterization Gradients
 ### SGD as Variational Inference
 
 Stochastic Gradient Descent Performs Variational Inference, Converges to Limit Cycles For Deep Networks
+
+### SGD Theory
+
+https://www.youtube.com/watch?v=NFeZ6MggJjw
