@@ -46,10 +46,8 @@ Reparameterization Gradients through Acceptance-Rejection Sampling Algorithms
 
 Implicit Reparameterization Gradients
 
-### SGD as Variational Inference
+### Loss Surface and Optimization
 
+Adding One Neuron Can Eliminate All Bad Local Minima
 Stochastic Gradient Descent Performs Variational Inference, Converges to Limit Cycles For Deep Networks
-
-### SGD Theory
-
 https://www.youtube.com/watch?v=NFeZ6MggJjw
