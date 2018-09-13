@@ -49,5 +49,7 @@ Implicit Reparameterization Gradients
 ### Loss Surface and Optimization
 
 Adding One Neuron Can Eliminate All Bad Local Minima
+
 Stochastic Gradient Descent Performs Variational Inference, Converges to Limit Cycles For Deep Networks
+
 https://www.youtube.com/watch?v=NFeZ6MggJjw
